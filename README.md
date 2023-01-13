@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! My name is Petros Karampelas, and I am an economics graduate completing his military service. My professional interests surround quantitative trading and machine learning. I also enjoy studying literature concerning the inner workings of the financial system. I am currently using GitHub solely for my masters applications, however I am looking forward to enriching my profile with more additions as I continue to practice coding.
 
 <!--
 **petros8/petros8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
