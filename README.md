@@ -1,4 +1,4 @@
-### Hello! My name is Petros Karampelas, and I am currently a Mathematical and Computational Finance student at Oxford. My professional interests surround quantitative trading and machine learning. I also enjoy studying literature about shadow banking and financial plumbing. Throughtout winter term, I will be using GitHub to showcase my coding projects, since it is the best way to practice coding. Any feedback on my projects is very much appreciated!
+### Hello! My name is Petros Karampelas. I have recently finished my degree in Eocnomics, and I am currently studying Mathematical Finance at Oxford. I am profesisonally interested in developing trading strategies through scientific methods. In my free time, I enjoy studying literature on monetary mehcanics and financial plumbing, and self studying aspects of math which I find interesitng . Apart from work, I use GitHub to showcase my pet projects. Any feedback is greatly appreciated!
 
 <!--
 **petros8/petros8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
