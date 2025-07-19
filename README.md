@@ -1,5 +1,5 @@
 ### Hello! My name is Petros Karampelas. 
-- My academic background consists of undergraduate studies in Economics and Econometrics in Athens, followed by postgraduate specialization in Mathematical Finance at the University of Oxford.
+- My academic background consists of undergraduate studies in Economics and Econometrics in Athens, followed by postgraduate studies in Mathematical Finance at the University of Oxford.
 - In my current role, I contribute to the development and evaluation of generative models for fixed income.
 - Apart from work, I am currently expanding my knowledge in building automated trading systems, while improving my programming skills.
 - How to reach me: karampelas@maths.ox.ac.uk
